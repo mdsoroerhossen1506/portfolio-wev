@@ -152,3 +152,50 @@ nav{
     font-weight: 400;
     font-size: 20px;
 }
+
+
+                /* section what i do */
+
+.whatido-section{
+    /* text-align: center; */
+    padding-top:120px ;
+}
+.skill{
+    padding: 50px;
+}
+.section-title{
+    text-align: center;
+}
+.skill-secction-description{
+    text-align: center;
+}
+.vanilla-js{
+    border-radius: 5px;
+    margin-right: 24px;
+    padding:30px ;
+    box-shadow:0px 6px 50px 0px #000000 ;
+}
+.vanilla-js img{
+
+}
+.react{
+    border-radius: 5px;
+    margin-right: 24px;
+    box-shadow: 0px 6px 50px 0px #000000;
+    padding:30px 
+
+    
+}
+.nodejs{
+    border-radius: 5px;
+    margin-right: 24px;
+    box-shadow: 0px 6px 50px 0px #000000;
+    padding:30px 
+    
+}
+.mongo{
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px 0px #000000;
+    padding:30px 
+    
+}
