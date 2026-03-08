@@ -199,3 +199,30 @@ nav{
     padding:30px 
     
 }
+
+.btn-downld-cv{
+    display: flex;
+    justify-content: center;
+}
+.resume-colume-colume-title{
+    font-size: 20px;
+    font-weight: 700;
+}
+.experience-title{
+    font-size: 25px;
+    font-weight: 700;
+
+}
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+
+}
+.experience-description{
+    font-size: 16px;
+    font-weight: 400;
+
+}
+.resume{
+    gap: 0px 20px;
+}
